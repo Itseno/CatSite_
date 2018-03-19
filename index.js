@@ -1,1 +1,1 @@
-prompt("Who are you?");
+var hello = 2 + 2;
